@@ -64,10 +64,7 @@ dependencies {
 ```
 
 # Fotos do Aplicativos
-<img width="419" height="882" alt="image" src="https://github.com/user-attachments/assets/83234294-94dd-4136-98f6-fe3a0e87346b" />
-<img width="367" height="782" alt="{3D215839-5B7D-48D9-AE54-F762B2235F71}" src="https://github.com/user-attachments/assets/9e372de7-3420-4764-98c5-a3f53cb85ad5" />
-<img width="368" height="711" alt="{F1C6D7CD-7AEF-478E-A1D5-D052A0EF4FD0}" src="https://github.com/user-attachments/assets/1fbf7e32-1e03-44c3-a320-a47a9d96990f" />
-<img width="357" height="701" alt="{32861FFE-2697-410B-A61C-72FA8AF6B289}" src="https://github.com/user-attachments/assets/cf0a8a57-95f9-4658-8971-1a99b77d28fc" />
-
-
-
+<img width="350" height="800" alt="image" src="https://github.com/user-attachments/assets/83234294-94dd-4136-98f6-fe3a0e87346b" />
+<img width="350" height="800" alt="{3D215839-5B7D-48D9-AE54-F762B2235F71}" src="https://github.com/user-attachments/assets/9e372de7-3420-4764-98c5-a3f53cb85ad5" />
+<img width="350" height="800" alt="{F1C6D7CD-7AEF-478E-A1D5-D052A0EF4FD0}" src="https://github.com/user-attachments/assets/1fbf7e32-1e03-44c3-a320-a47a9d96990f" />
+<img width="350" height="800" alt="{32861FFE-2697-410B-A61C-72FA8AF6B289}" src="https://github.com/user-attachments/assets/cf0a8a57-95f9-4658-8971-1a99b77d28fc" />
